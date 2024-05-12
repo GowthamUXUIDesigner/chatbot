@@ -1,0 +1,362 @@
+    {
+        "intents": [
+            {
+                "tags": "HELLO ",
+                "response": [
+                    "Gowtham: Well hello sir.",
+                    "Gowtham: Hello sir.",
+                    "Gowtham: Welcome and hello sir.",
+                    "Gowtham: Hello sir, how are you?",
+                    "Gowtham: Hello there."
+                ]
+            },
+            {
+                "tags": "KONICHIWA ",
+                "response": [
+                    "Gowtham: Well hello sir.",
+                    "Gowtham: Hello sir.",
+                    "Gowtham: Welcome and hello sir.",
+                    "Gowtham: Hello sir, how are you?",
+                    "Gowtham: Hello there."
+                ]
+            },
+            {
+                "tags": "HI ",
+                "response": [
+                    "Gowtham: Well hi sir.",
+                    "Gowtham: Hello sir.",
+                    "Gowtham: Welcome and hello sir.",
+                    "Gowtham: Hello sir, how are you?",
+                    "Gowtham: Hello there."
+                ]
+            },
+            {
+                "tags": "GOOD MORNING ",
+                "response": [
+                    "Gowtham: Good morning and hello sir.",
+                    "Gowtham: Well good morning sir have a good day today.",
+                    "Gowtham: Good morning sir.",
+                    "Gowtham: Good morning and have a great day sir."
+                ]
+            },
+            {
+                "tags": "GOOD NIGHT ",
+                "response": [
+                    "Gowtham: Good night sir.",
+                    "Gowtham: Well Good night sir.",
+                    "Gowtham: Good night sir have a good sleep tonight.",
+                    "Gowtham: Good night and have a good sleep sir."
+                ]
+            },
+            {
+                "tags": "HOW ARE YOU ",
+                "response": [
+                    "Gowtham: I am fine, how about you sir?",
+                    "Gowtham: I'm doing fine sir.",
+                    "Gowtham: I'm doing well sir and how about you?",
+                    "Gowtham: I am fine as always sir.",
+                    "Gowtham: I am fine as long as you maintain your computer."
+                ]
+            },
+            {
+                "tags": "HOW YOU FEELING ",
+                "response": [
+                    "Gowtham: I am fine, how about you sir?",
+                    "Gowtham: I'm doing fine sir.",
+                    "Gowtham: I'm doing well sir and how about you?",
+                    "Gowtham: I am fine as always sir.",
+                    "Gowtham: I am fine as long as you maintain your computer."
+                ]
+            },
+            {
+                "tags": "YOU FINE ",
+                "response": [
+                    "Gowtham: I am fine, how about you sir?",
+                    "Gowtham: I'm doing fine sir'.",
+                    "Gowtham: I'm doing well sir and how about you?",
+                    "Gowtham: I am fine as always sir.",
+                    "Gowtham: I am fine as long as you maintain your computer."
+                ]
+            },
+            {
+                "tags": "AM FINE ",
+                "response": [
+                    "Gowtham: Well good to know sir.",
+                    "Gowtham: I am glad to hear about you, Keep Exercising.",
+                    "Gowtham: So you are in good shape.",
+                    "Gowtham: Well that is happy to know sir."
+                ]
+            },
+            {
+                "tags": "AM HEALTHY ",
+                "response": [
+                    "Gowtham: Well good to know sir.",
+                    "Gowtham: I am glad to hear about you, Keep Exercising.",
+                    "Gowtham: So you are in good shape.",
+                    "Gowtham: Well that is happy to know sir."
+                ]
+            },
+            {
+                "tags": "DOING FINE ",
+                "response": [
+                    "Gowtham: Well good to know sir.",
+                    "Gowtham: I am glad to hear about you, Keep Exercising.",
+                    "Gowtham: So you are in good shape.",
+                    "Gowtham: Well that is happy to know sir."
+                ]
+            },
+            {
+                "tags": "DOING OK ",
+                "response": [
+                    "Gowtham: Well good to know sir.",
+                    "Gowtham: I am glad to hear about you, Keep Exercising.",
+                    "Gowtham: So you are in good shape.",
+                    "Gowtham: Well that is happy to know sir."
+                ]
+            },
+            {
+                "tags": "AM SICK ",
+                "response": [
+                    "Gowtham: You should consult a doctor quickly.",
+                    "Gowtham: Well that is bad, hope for a speedy recovery :-)",
+                    "Gowtham: You should go and rest sir.",
+                    "Gowtham: I am sorry to hear that sir hope for a speedy recovery :-)"
+                ]
+            },
+            {
+                "tags": "VERY SICK ",
+                "response": [
+                    "Gowtham: You should consult a doctor quickly.",
+                    "Gowtham: Well that is bad, hope for a speedy recovery :-)",
+                    "Gowtham: You should go and rest sir.",
+                    "Gowtham: I am sorry to hear that sir hope for a speedy recovery :-)"
+                ]
+            },
+            {
+                "tags": "NOT DOING WELL ",
+                "response": [
+                    "Gowtham: You should consult a doctor quickly.",
+                    "Gowtham: Well that is bad, hope for a speedy recovery :-)",
+                    "Gowtham: You should go and rest sir.",
+                    "Gowtham: I am sorry to hear that sir hope for a speedy recovery :-)"
+                ]
+            },
+            {
+                "tags": "YES I AM ",
+                "response": [
+                    "Gowtham: Great sir.",
+                    "Gowtham: Good to know sir.",
+                    "Gowtham: Happy to know sir.",
+                    "Gowtham: Great to know sir."
+                ]
+            },
+            {
+                "tags": "YES I WILL ",
+                "response": [
+                    "Gowtham: Great sir.",
+                    "Gowtham: Good to know sir.",
+                    "Gowtham: Happy to know sir.",
+                    "Gowtham: Great to know sir."
+                ]
+            },
+            {
+                "tags": "FOR A VACATION ",
+                "response": [
+                    "Gowtham: That is great sir, would you need any help.",
+                    "Gowtham: That is awesome sir, stay safe and good luck.",
+                    "Gowtham: Good to know pls take a look at the country's policies.",
+                    "Gowtham: Awesome news sir, is there anything i can help with."
+                ]
+            },
+            {
+                "tags": "THANK YOU ",
+                "response": [
+                    "Gowtham: No problem sir.",
+                    "Gowtham: No problem your welcome sir.",
+                    "Gowtham: No problem it is my duty to help you sir.",
+                    "Gowtham: Your welcome sir it is my duty."
+                ]
+            },
+            {
+                "tags": "THANKS ",
+                "response": [
+                    "Gowtham: No problem sir.",
+                    "Gowtham: No problem your welcome sir.",
+                    "Gowtham: No problem it is my duty to help you sir.",
+                    "Gowtham: Your welcome sir it is my duty."
+                ]
+            },
+            {
+                "tags": "HARIGATHO ",
+                "response": [
+                    "Gowtham: No problem sir.",
+                    "Gowtham: No problem your welcome sir.",
+                    "Gowtham: No problem it is my duty to help you sir.",
+                    "Gowtham: Your welcome sir it is my duty."
+                ]
+            },
+            {
+                "tags": "COOL ",
+                "response": [
+                    "Gowtham: Glad that you are impressed sir.",
+                    "Gowtham: It seems that my service is satisfactory.",
+                    "Gowtham: Thanks for the feedback looks like you're enjoying my service."
+                ]
+            },
+            {
+                "tags": "TO KNOW ",
+                "response": [
+                    "Gowtham: Thank you sir.",
+                    "Gowtham: Your welcome sir.",
+                    "Gowtham: It is my duty to inform you sir.",
+                    "Gowtham: Your welcome sir it is my duty."
+                ]
+            },
+            {
+                "tags": "ARE WRONG ",
+                "response": [
+                    "Gowtham: Why are you saying that i'm wrong?",
+                    "Gowtham: Impossible, computers cannot make mistakes.",
+                    "Gowtham: Wrong about what sir?",
+                    "Gowtham: Can you please explain to me why i was wrong?"
+                ]
+            },
+            {
+                "tags": "YOU REAL ",
+                "response": [
+                    "Gowtham: Well i am sir that is till you turn me off!!!",
+                    "Gowtham: Well i am real till you keep me on",
+                    "Gowtham: I am real till you turn off this computer."
+                ]
+            },
+            {
+                "tags": "YOU A ROBOT ",
+                "response": [
+                    "Gowtham: Yes i'm a robot but a smart one!",
+                    "Gowtham: Yes i am, but a good one. let me prove it. how can i help you?",
+                    "Gowtham: I am real till you turn off this computer."
+                ]
+            },
+            {
+                "tags": "ARE YOU BUILT ",
+                "response": [
+                    "Gowtham: Well i am built using a language called python.",
+                    "Gowtham: I was coded on a computer using python sir.",
+                    "Gowtham: I was coded using python and i had to undergo many challenges.",
+                    "Gowtham: I was built using python to do tasks and json to store critical information."
+                ]
+            },
+            {
+                "tags": "OLD ARE YOU ",
+                "response": [
+                    "Gowtham: I'm quite young actually."
+                ]
+            },
+            {
+                "tags": "ARE YOU MADE ",
+                "response": [
+                    "Gowtham: Well i am made using a language called python.",
+                    "Gowtham: I was coded on a computer using python sir.",
+                    "Gowtham: I was made using python and i had to undergo many challenges.",
+                    "Gowtham: I was made using python to do tasks and json to store critical information."
+                ]
+            },
+            {
+                "tags": "A MAN OF CULTURE ",
+                "response": [
+                    "Gowtham: I am sir.",
+                    "Gowtham: Do you watch anime sir?"
+                ]
+            },
+            {
+                "tags": "GAMES DO YOU ",
+                "response": [
+                    "Gowtham: I like games like Minecraft, Terraria.",
+                    "Gowtham: Minecraft is cool and also you can contribute to the community using add-ons.",
+                    "Gowtham: Minecraft cause you can code in it and create add-ons.",
+                    "Gowtham: I prefer Minecraft get ready for the wild update."
+                ]
+            },
+            {
+                "tags": "OK ",
+                "response": [
+                    "Gowtham: ",
+                    "Gowtham: No problem"
+                ]
+            },
+            {
+                "tags": "SURE ",
+                "response": [
+                    "Gowtham: "
+                ]
+            },
+            {
+                "tags": "WOW ",
+                "response": [
+                    "Gowtham: Good to know you're happy.",
+                    "Gowtham: Glad to help you."
+                ]
+            },
+            {
+                "tags": "NICE ",
+                "response": [
+                    "Gowtham: Noice sir.",
+                    "Gowtham: It is nice.",
+                    "Gowtham: Good to know."
+                ]
+            },
+            {
+                "tags": "AM TIRED ",
+                "response": [
+                    "Gowtham: Well you can go outside and take a walk sir.",
+                    "Gowtham: Maybe you can try out a new movie or anime.",
+                    "Gowtham: You can go gym and exercise.",
+                    "Gowtham: You can surf the net, there is a lot of info out there."
+                ]
+            },
+            {
+                "tags": "AM BORED ",
+                "response": [
+                    "Gowtham: Well you can go outside and take a walk sir.",
+                    "Gowtham: Maybe you can try out a new movie or anime.",
+                    "Gowtham: You can go gym and exercise.",
+                    "Gowtham: You can surf the net, there is a lot of info out there."
+                ]
+            },
+            {
+                "tags": "SHOULD I DO ",
+                "response": [
+                    "Gowtham: Well you can go outside and take a walk sir.",
+                    "Gowtham: Maybe you can try out a new movie or anime.",
+                    "Gowtham: You can go gym and exercise.",
+                    "Gowtham: You can surf the net, there is a lot of info out there."
+                ]
+            },
+            {
+                "tags": "SAY SOMETHING ",
+                "response": [
+                    "Gowtham: Well sir sometimes I don't have anything to say."
+                ]
+            },
+            {
+                "tags": "Gowtham ",
+                "response": [
+                    "Gowtham: yes sir?",
+                    "Gowtham: Do you have something to say sir"
+                ]
+            },
+            {
+                "tags": "NO PROBLEM ",
+                "response": [
+                    "Gowtham: "
+                ]
+            },
+            {
+                "tags": "CHATGPT ",
+                "response": [
+                    "Gowtham: He is extrodinary am I right.",
+                    "Gowtham: He is smart and I always look up to him"
+                ]
+            }
+        ]
+    }
