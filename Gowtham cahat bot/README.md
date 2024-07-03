@@ -16,8 +16,7 @@ Kindly consider starring this repository if you like the program :-)
 
 ## WHAT'S NEW?
 Here at Epicalable we are committed in keeping Gowthamup-to-date and up-to-speed with the growing tech solutions and algorithms. Hence this new commit includes:
-```
-JARVIS Updates In This Commit:-
+```Updates In This Commit:-
 Update Highlights:-
 1. Bug fixes and UX enhancements.
 
@@ -34,8 +33,7 @@ GUI Stability Checks: ✅
 Code-GUI Integration Checks: ✅
 (All evaluations are done by the R&D Department)
 
-Last Updated: 14-Feburary-2024 20:15 HRS
-Publisher: Epicalable
+
 ```
 Keep updated to what's happening on this repository by clicking the 'Star' and 'Watch' button on the top right corner of this webpage.
 
