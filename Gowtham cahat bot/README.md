@@ -50,16 +50,9 @@ Keep updated to what's happening on this repository by clicking the 'Star' and '
 ###### Note: As of 1 May all of Epicalable Systems have been upgraded to windows 11.
 
 
-## Introduction to Gowtham?
-Gowtham was started in 2019 as an Command-Line Interface Application in C++ and after careful consideration was shifted to Python during 2020 due to some limitations.  
-Gowtham has been constantly evolved over the years to where it is now, integrated with a GUI and new features being added every month. While our staffs in Epicalable are constantly fixing bugs and closing issues behind the scenes.  
-So what does Gowtham do? Well JARVIS is known as a chatbot it also can get news, weather, get location, send emails, flight info, stock prices, wikipedia and some more cool features sprinkled in by our programmers.
-
-
-
 ## How to run Gowtham?
 To run Gowtham, user are to open up the JarvisGUI.py file and 'pip' download the 3rd party packages so users can run Jarvis successfully without any problems.  
-Users facing any issues can open up an issue at the [Issues](https://github.com/Epicalable/JARVIS/issues) section of JARVIS Github Page and can expext us to rectify it ASAP.  
+Users facing any issues can open up an issue at the [Issues](https://github.com/Epicalable/gowtham/issues) section of JARVIS Github Page and can expext us to rectify it ASAP.  
 
 In order for Gowtham to work at full capacity a few 3rd party python packages will be required to be installed:
 1. pip install PySimpleGUI
